@@ -1,6 +1,6 @@
 # Francisco Alonso · fjalonso11
 
-> Senior strategy and product leader at the intersection of fintech, revenue operations, and AI.
+> Global strategy & AI operations leader — bridging boardroom strategy and technical execution in fintech.
 
 ---
 
@@ -17,7 +17,7 @@ Currently building a **RevOps infrastructure platform** for LatAm startups, usin
 - **Fintech & Payments** — deep domain experience across LatAm markets (MX, BR, CO), including corporate spend management, B2B payments, and financial operations
 - **Revenue Operations** — pipeline architecture, lead-to-cash velocity, NRR and margin optimization, CRM design and instrumentation
 - **Strategy & Chief of Staff** — cross-functional alignment, OKR design, board-level reporting, and organizational operating models
-- **Product Leadership** — 0→1 and growth-stage product, GTM strategy, pricing, and analytics
+- **AI Systems** — agentic workflow deployment, commercial AI architecture, Google Cloud Technical Residency in AI Governance
 
 ---
 
@@ -32,10 +32,10 @@ Currently building a **RevOps infrastructure platform** for LatAm startups, usin
 ## Technical toolkit
 
 ```
-Languages     Python · SQL
+Languages     Python · SQL · C++
 Frameworks    FastAPI · dbt
 Data          Supabase · Postgres · ETL pipelines
-AI/LLM        Claude API · Claude Code · prompt engineering
+AI/LLM        Claude API · Claude Code · Vertex AI · prompt engineering
 Orchestration n8n · webhook architecture
 Tools         GitHub · VS Code · Docker
 ```
@@ -47,8 +47,8 @@ Tools         GitHub · VS Code · Docker
 ```
 Revenue Operations    CRM architecture · pipeline design · lead-to-cash · NRR
 Fintech / Payments    Corporate cards · B2B payments · TPV · LatAm markets
-Strategy              OKRs · operating models · board reporting · M&A
-Product               GTM · pricing · analytics · 0→1 product
+Strategy & Ops        OKRs · operating models · board reporting · M&A
+AI Architecture       Agentic workflows · commercial AI · AI governance
 ```
 
 ---
@@ -56,9 +56,9 @@ Product               GTM · pricing · analytics · 0→1 product
 ## Let's connect
 
 - **LinkedIn** → [in/falonso11](https://linkedin.com/in/falonso11)
-- **Location** → Mexico City
-- **Open to** → Head of RevOps · Chief of Staff · VP Product / Growth roles at fintech and high-growth startups
+- **Location** → Mexico City · Open to US
+- **Open to** → Head of RevOps · Chief of Staff · VP Strategy & Operations roles at fintech and high-growth startups
 
 ---
 
-*Building at the intersection of strategy, data, and AI — because the best revenue systems are both intelligent and human.*
+*Bridging boardroom strategy and technical execution — because the best revenue systems are both intelligent and human.*
