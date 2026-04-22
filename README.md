@@ -1,6 +1,6 @@
 # Francisco Alonso · fjalonso11
 
-> Global strategy & AI operations leader — bridging boardroom strategy and technical execution in fintech.
+> Global strategy & AI operations leader — bridging boardroom strategy and technical execution in fintech and high-growth startups.
 
 ---
 
