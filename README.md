@@ -25,7 +25,7 @@ Currently building a **RevOps infrastructure platform** for LatAm startups, usin
 
 | Project | Description | Stack |
 |---|---|---|
-| `revops-system` *(private)* | RevOps infrastructure platform for LatAm startups — 4-layer architecture covering data ingestion, AI-powered analysis, CRM orchestration, and revenue outcome dashboards | Python · FastAPI · Supabase · n8n · Claude API |
+| `revops-system` *(private — available upon request)* | RevOps infrastructure platform for LatAm startups — 4-layer architecture covering data ingestion, AI-powered analysis, CRM orchestration, and revenue outcome dashboards | Python · FastAPI · Supabase · n8n · Claude API |
 
 ---
 
